@@ -1,28 +1,18 @@
-[{
-  "_id": {
-    "$oid": "680640d3898da9ca59520326"
+[
+  {
+    "_id": "AV",
+    "TenKH": "Anh Văn"
   },
-  "MaKhoa": "AV",
-  "TenKH": "Anh Văn"
-},
-{
-  "_id": {
-    "$oid": "680640e5898da9ca59520327"
+  {
+    "_id": "TH",
+    "TenKH": "Tin Học"
   },
-  "MaKhoa": "TH",
-  "TenKH": "Tin Học"
-},
-{
-  "_id": {
-    "$oid": "680640fa898da9ca59520328"
+  {
+    "_id": "TR",
+    "TenKH": "Triết"
   },
-  "MaKhoa": "TR",
-  "TenKH": "Triết"
-},
-{
-  "_id": {
-    "$oid": "6806410a898da9ca59520329"
-  },
-  "MaKhoa": "VL",
-  "TenKH": "Vật Lý"
-}]
+  {
+    "_id": "VL",
+    "TenKH": "Vật Lý"
+  }
+]

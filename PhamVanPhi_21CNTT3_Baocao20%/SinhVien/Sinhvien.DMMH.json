@@ -1,48 +1,32 @@
-[{
-  "_id": {
-    "$oid": "663b24080d9747034741849d"
+[
+  {
+    "_id": "01",
+    "TenMH": "Cơ sở dữ liệu",
+    "SoTiet": "45"
   },
-  "MaMH": "01",
-  "TenMH": "Cơ sở dữ liệu",
-  "SoTiet": "45"
-},
-{
-  "_id": {
-    "$oid": "68063db0898da9ca5952030e"
+  {
+    "_id": "02",
+    "TenMH": "Trí tuệ nhân tạo",
+    "SoTiet": "45"
   },
-  "MaMH": "02",
-  "TenMH": "Trí tuệ nhân tạo",
-  "SoTiet": "45"
-},
-{
-  "_id": {
-    "$oid": "68063dd8898da9ca5952030f"
+  {
+    "_id": "03",
+    "TenMH": "Truyền tin",
+    "SoTiet": "45"
   },
-  "MaMH": "03",
-  "TenMH": "Truyền tin",
-  "SoTiet": "45"
-},
-{
-  "_id": {
-    "$oid": "68063e06898da9ca59520310"
+  {
+    "_id": "04",
+    "TenMH": "Đồ hoạ",
+    "SoTiet": "60"
   },
-  "MaMH": "04",
-  "TenMH": "Đồ hoạ",
-  "SoTiet": "60"
-},
-{
-  "_id": {
-    "$oid": "68063e30898da9ca59520311"
+  {
+    "_id": "05",
+    "TenMH": "Văn phạm",
+    "SoTiet": "60"
   },
-  "MaMH": "05",
-  "TenMH": "Văn phạm",
-  "SoTiet": "60"
-},
-{
-  "_id": {
-    "$oid": "68063e42898da9ca59520312"
-  },
-  "MaMH": "05",
-  "TenMH": "Kỹ thuật lập trình",
-  "SoTiet": "60"
-}]
+  {
+    "_id": "06",
+    "TenMH": "Kỹ thuật lập trình",
+    "SoTiet": "60"
+  }
+]

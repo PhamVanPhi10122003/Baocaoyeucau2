@@ -1,78 +1,62 @@
-[{
-  "_id": {
-    "$oid": "663b208a0d9747034741849b"
+[
+  {
+    "_id": "A01",
+    "HoSV": "Nguyễn Thị",
+    "TenSV": "Hải",
+    "Phai": "1",
+    "NgaySinh": "23/02/1993",
+    "NoiSinh": "Hà Nội",
+    "MaKhoa": "TH",
+    "HocBong": "130000"
   },
-  "MaSV": "A01",
-  "HoSV": "Nguyễn Thị",
-  "TenSV": "Hải",
-  "Phai": "1",
-  "NgaySinh": "23/02/1993",
-  "NoiSinh": "Hà Nội",
-  "MaKhoa": "TH",
-  "HocBong": "130000"
-},
-{
-  "_id": {
-    "$oid": "663b295a0d974703474184a0"
+  {
+    "_id": "A02",
+    "HoSV": "Trần văn",
+    "TenSV": "Chính",
+    "Phai": "0",
+    "NgaySinh": "24/12/1992",
+    "NoiSinh": "Bình Định",
+    "MaKhoa": "VL",
+    "HocBong": "150000"
   },
-  "MaSV": "A02",
-  "HoSV": "Trần văn",
-  "TenSV": "Chính",
-  "Phai": "0",
-  "NgaySinh": "24/12/1992",
-  "NoiSinh": "Bình Định",
-  "MaKhoa": "VL",
-  "HocBong": "150000"
-},
-{
-  "_id": {
-    "$oid": "68063ed1898da9ca59520314"
+  {
+    "_id": "A03",
+    "HoSV": "Lê Thu Bạch",
+    "TenSV": "Yến",
+    "Phai": "1",
+    "NgaySinh": "21/02/1993",
+    "NoiSinh": "Tp HCM",
+    "MaKhoa": "TH",
+    "HocBong": "170000"
   },
-  "MaSV": "A03",
-  "HoSV": "Lê Thu Bạch",
-  "TenSV": "Yến",
-  "Phai": "1",
-  "NgaySinh": "21/02/1993",
-  "NoiSinh": "Tp HCM",
-  "MaKhoa": "TH",
-  "HocBong": "170000"
-},
-{
-  "_id": {
-    "$oid": "68063f01898da9ca59520315"
+  {
+    "_id": "A04",
+    "HoSV": "Trần Anh",
+    "TenSV": "Tuấn",
+    "Phai": "0",
+    "NgaySinh": "20/12/1994",
+    "NoiSinh": "Hà Nội",
+    "MaKhoa": "AV",
+    "HocBong": "80000"
   },
-  "MaSV": "A04",
-  "HoSV": "Trần Anh",
-  "TenSV": "Tuấn",
-  "Phai": "0",
-  "NgaySinh": "20/12/1994",
-  "NoiSinh": "Hà Nội",
-  "MaKhoa": "AV",
-  "HocBong": "80000"
-},
-{
-  "_id": {
-    "$oid": "68063f46898da9ca59520316"
+  {
+    "_id": "B01",
+    "HoSV": "Trần Thanh",
+    "TenSV": "Mai",
+    "Phai": "1",
+    "NgaySinh": "12/08/1993",
+    "NoiSinh": "Hải Phòng",
+    "MaKhoa": "TR",
+    "HocBong": "0"
   },
-  "MaSV": "B01",
-  "HoSV": "Trần Thanh",
-  "TenSV": "Mai",
-  "Phai": "1",
-  "NgaySinh": "12/08/1993",
-  "NoiSinh": "Hải Phòng",
-  "MaKhoa": "TR",
-  "HocBong": "0"
-},
-{
-  "_id": {
-    "$oid": "68063f78898da9ca59520317"
-  },
-  "MaSV": "B02",
-  "HoSV": "Trần Thị Thu",
-  "TenSV": "Thuỷ",
-  "Phai": "1",
-  "NgaySinh": "20/01/1994",
-  "NoiSinh": "Tp HCM",
-  "MaKhoa": "AV",
-  "HocBong": "0"
-}]
+  {
+    "_id": "B02",
+    "HoSV": "Trần Thị Thu",
+    "TenSV": "Thuỷ",
+    "Phai": "1",
+    "NgaySinh": "20/01/1994",
+    "NoiSinh": "Tp HCM",
+    "MaKhoa": "AV",
+    "HocBong": "0"
+  }
+]
