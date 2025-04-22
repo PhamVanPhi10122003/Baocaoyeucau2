@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6806481c898da9ca59520361"
+  },
+  "MaPB": 5,
+  "TenPB": "Nghien cuu",
+  "TrPhong": "333445555",
+  "NgNhanChuc": "22/06/1998"
+},
+{
+  "_id": {
+    "$oid": "68064836898da9ca59520362"
+  },
+  "MaPB": 4,
+  "TenPB": "Hanh chinh",
+  "TrPhong": "987654321",
+  "NgNhanChuc": "01/01/1995"
+},
+{
+  "_id": {
+    "$oid": "6806484b898da9ca59520363"
+  },
+  "MaPB": 1,
+  "TenPB": "Giao duc",
+  "TrPhong": "888665555",
+  "NgNhanChuc": "19/06/1981"
+}]

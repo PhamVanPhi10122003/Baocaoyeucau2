@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "680640d3898da9ca59520326"
+  },
+  "MaKhoa": "AV",
+  "TenKH": "Anh Văn"
+},
+{
+  "_id": {
+    "$oid": "680640e5898da9ca59520327"
+  },
+  "MaKhoa": "TH",
+  "TenKH": "Tin Học"
+},
+{
+  "_id": {
+    "$oid": "680640fa898da9ca59520328"
+  },
+  "MaKhoa": "TR",
+  "TenKH": "Triết"
+},
+{
+  "_id": {
+    "$oid": "6806410a898da9ca59520329"
+  },
+  "MaKhoa": "VL",
+  "TenKH": "Vật Lý"
+}]
